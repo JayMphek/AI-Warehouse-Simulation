@@ -1,5 +1,5 @@
-from core.warehouse import WarehouseGenerator
-from core.obstacle_avoid import Obstacle_Avoidance
+from src.warehouse import WarehouseGenerator
+from src.obstacle_avoid import Obstacle_Avoidance
 
 def main():
     warehouse_simulation = WarehouseGenerator()
